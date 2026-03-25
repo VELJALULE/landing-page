@@ -87,7 +87,7 @@ button {
 .imgcon {
     width: 500px;
     height: 270px;
-    background: url(/photos/philosophy.jpg);
+    background: url(photos/philosophy.jpg);
     background-size: cover;
     flex-shrink: 0;  
 
