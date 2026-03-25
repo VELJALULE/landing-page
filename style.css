@@ -134,23 +134,23 @@ button {
 }
 
 .imgcon1 {
-    background: url(/photos/photo11.jpg);
+    background: url(photos/photo11.jpg);
     background-size: cover;
 
 }
 
 .imgcon2 {
-      background: url(/photos/photo22.jpg); 
+      background: url(photos/photo22.jpg); 
       background-size: cover; 
 }
 
 .imgcon3 {
-    background: url(/photos/photo33.jpg);
+    background: url(photos/photo33.jpg);
     background-size: cover;
 }
 
 .imgcon4 {
-    background: url(/photos/photo44.jpg);
+    background: url(photos/photo44.jpg);
     background-size: cover;
 }
 
